@@ -3,5 +3,5 @@
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
   "/": "pages/index.js",
-  "/ImageChangeOnMouseOver": "pages/ImageChangeOnMouseOver.js"
+  "/ImageChangeOnMouseScroll": "pages/ImageChangeOnMouseScroll.js"
 }

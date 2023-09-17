@@ -12,10 +12,10 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/ImageChangeOnMouseOver": [
+    "/ImageChangeOnMouseScroll": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/ImageChangeOnMouseOver.js"
+      "static/chunks/pages/ImageChangeOnMouseScroll.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
